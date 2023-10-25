@@ -1,0 +1,16 @@
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.csproj.AssemblyReference.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.AssemblyInfoInputs.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.AssemblyInfo.cs
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.exe
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.deps.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.runtimeconfig.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.runtimeconfig.dev.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\ref\LAB2.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\LAB2.pdb
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\ref\LAB2.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.pdb
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\LAB2.genruntimeconfig.cache

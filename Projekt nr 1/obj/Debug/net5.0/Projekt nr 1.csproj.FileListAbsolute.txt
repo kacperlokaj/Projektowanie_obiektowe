@@ -1,0 +1,16 @@
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.exe
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.deps.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.runtimeconfig.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.runtimeconfig.dev.json
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\ref\Projekt nr 1.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\bin\Debug\net5.0\Projekt nr 1.pdb
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.csproj.AssemblyReference.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.AssemblyInfoInputs.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.AssemblyInfo.cs
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.csproj.CoreCompileInputs.cache
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\ref\Projekt nr 1.dll
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.pdb
+C:\Users\w67653\source\repos\Projekt nr 1\Projekt nr 1\obj\Debug\net5.0\Projekt nr 1.genruntimeconfig.cache
